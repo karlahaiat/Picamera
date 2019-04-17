@@ -1,8 +1,8 @@
 # Picamera
 
-1. pause_save.py for video feed without splitting
+1. pause_save.py for video feed without time splitting
 
-2. record_working.py for the code that splits the video every 10 minutes and saves all videos to a folder named rec
+2. record_working.py code that splits the video every 10 minutes and saves all videos to a folder named rec
 
 3. transform.py converts the videos in the rec folder. You can change this by going in the code if you want the location the videos are taken from to change. 
 
